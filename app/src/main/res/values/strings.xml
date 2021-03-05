@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tugas 2</string>
+    <string name="tvwelcome">Selamat Datang</string>
+    <string name="btnartikel">Artikel</string>
+    <string name="btnbiodata">Biodata Mahasiswa</string>
+    <string name="tvartikel">Artikel</string>
+    <string name="tvisiartikel">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque fermentum dui faucibus in ornare quam viverra orci sagittis. Vitae congue mauris rhoncus aenean. Aliquam eleifend mi in nulla posuere. Urna id volutpat lacus laoreet non. Rhoncus urna neque viverra justo nec ultrices dui sapien eget. Dictum at tempor commodo ullamcorper a lacus vestibulum. Quam quisque id diam vel quam elementum pulvinar. Nisl tincidunt eget nullam non nisi est sit amet. Eget gravida cum sociis natoque penatibus et magnis dis. Viverra orci sagittis eu volutpat odio facilisis mauris sit. Lobortis feugiat vivamus at augue. Fermentum posuere urna nec tincidunt praesent semper. Adipiscing bibendum est ultricies integer quis auctor elit sed vulputate. Sed cras ornare arcu dui vivamus arcu felis bibendum ut. Sit amet nisl suscipit adipiscing. Erat nam at lectus urna duis convallis. Vel eros donec ac odio tempor. Parturient montes nascetur ridiculus mus mauris vitae ultricies leo. Tortor id aliquet lectus proin nibh. Est ante in nibh mauris cursus mattis. Cursus vitae congue mauris rhoncus aenean vel elit. Odio tempor orci dapibus ultrices in iaculis. Lobortis elementum nibh tellus molestie nunc non blandit. Consequat semper viverra nam libero justo laoreet sit. Egestas quis ipsum suspendisse ultrices gravida dictum. Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Sed lectus vestibulum mattis ullamcorper velit sed. Scelerisque mauris pellentesque pulvinar pellentesque. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus et. Vitae congue eu consequat ac felis donec et odio pellentesque. Id faucibus nisl tincidunt eget nullam non. Risus sed vulputate odio ut enim blandit. Pharetra convallis posuere morbi leo. Convallis aenean et tortor at risus viverra adipiscing at in. Nulla at volutpat diam ut venenatis tellus. Sem fringilla ut morbi tincidunt augue interdum. Amet consectetur adipiscing elit pellentesque. Nisl suscipit adipiscing bibendum est ultricies. Convallis convallis tellus id interdum velit laoreet. Lorem ipsum dolor sit amet consectetur adipiscing elit. Tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Tincidunt tortor aliquam nulla facilisi cras fermentum. Egestas sed sed risus pretium quam vulputate. Eget felis eget nunc lobortis mattis aliquam faucibus. Id ornare arcu odio ut. Pellentesque habitant morbi tristique senectus et. In egestas erat imperdiet sed euismod nisi. Ut venenatis tellus in metus vulputate eu scelerisque. Ultrices vitae auctor eu augue.</string>
+    <string name="btnbackactivityone">Back to Beranda</string>
+    <string name="tvbiodata">Biodata</string>
+    <string name="tvname">Muhammad Takdim</string>
+    <string name="tvnim">H071191042</string>
+    <string name="tvttl">15 Mei 2001</string>
+    <string name="nim">Nim</string>
+    <string name="tvmotto">Motto Hidup</string>
+    <string name="motto">Tetap santuy, jangan barbar, dan skuyliving</string>
+    <string name="tvbirth">20, Male</string>
+    <string name="ttl">Tempat Tanggal Lahir</string>
+</resources>
